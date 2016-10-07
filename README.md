@@ -12,9 +12,9 @@ The crew consists of
 
 * [Helm](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/helm.md) - Steer the ship
 
-* [Weapons]() - Pew Pew Pew
+* [Weapons](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/weapons.md) - Pew Pew Pew
 
-* [Engineering](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/enginiering) - Monitor the ships systems and direct energy
+* [Engineering](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/enginiering.md) - Monitor the ships systems and direct energy
 
 * [Communications](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/communications.md) - Curse at other ships and make weapons requests to bases
 
