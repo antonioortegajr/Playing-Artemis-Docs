@@ -10,17 +10,17 @@ The crew consists of
 
 * [Captain](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/captain.md) - Monarch of the stars
 
-* Helm - Steer the ship
+* [Helm](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/helm.md) - Steer the ship
 
-* Weapons - Pew Pew Pew
+* [Weapons]() - Pew Pew Pew
 
-* Engineering - Monitor the ships systems and direct energy
+* [Engineering](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/enginiering) - Monitor the ships systems and direct energy
 
-* Communications - Curse at other ships and make weapons requests to bases
+* [Communications](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/communications.md) - Curse at other ships and make weapons requests to bases
 
-* Science - Scan the whole verse
+* [Science](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/science.md) - Scan the whole verse
 
-* Game Master - Place Humanity on trial
+* [Game Master](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/game-master.md) - Place Humanity on trial
 
 
 There is one main screen all players see. The Captian sees only the main screen. Each player will man a station and perform their duties on their own screens. Players can not see the screens of the rest of the crew's stations so verbal communication is used to work together. Team building!
