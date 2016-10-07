@@ -33,6 +33,8 @@ There is one main screen all players see. The Captian sees only the main screen.
 
 * Devices for the rest of the crew. This can be laptops, desktops, tablets, or even phones.
 
+DirectX 9 and shader model 2.0. This means practically any computer that runs Windows 98 or newer should run the game.
+
 ##Available On
 [Windows](http://artemis.eochu.com/index.php/buy-the-game/) |
 [Steam](http://store.steampowered.com/app/247350/) |
