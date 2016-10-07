@@ -34,7 +34,7 @@ There is one main screen all players see. The Captian sees only the main screen.
 * Devices for the rest of the crew. This can be laptops, desktops, tablets, or even phones.
 
 ##Available On
-[Windows](http://wikipedia.org) |
+[Windows](http://artemis.eochu.com/index.php/buy-the-game/) |
 [Steam](http://store.steampowered.com/app/247350/) |
 [iOS](https://itunes.apple.com/us/app/artemis-spaceship-bridge-simulator/id578372500?mt=8) |
 [Android](https://play.google.com/store/apps/details?id=incandescent.game.artemis&hl=en)
