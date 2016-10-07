@@ -8,7 +8,7 @@ If you have ever seen Star Trek, you will recognize the set up.
 
 The crew consists of 
 
-* Captain - Monarch of the stars
+* [Captain](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/captain.md) - Monarch of the stars
 
 * Helm - Steer the ship
 
