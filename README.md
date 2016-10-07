@@ -1,7 +1,7 @@
 # Playing-Artemis-Docs
 Docs for Playing [Artemis](http://artemis.eochu.com/)
 
-At IDX we play the Star Trek simulator game Artemis as a team building exercise. This game is perfect for this as players must speak commands and reports out loud. In short to even play you must communicate with your team.
+At IDX we play the Star Trek simulator game Artemis as a team building exercise. This game is perfect for this as players must speak commands and reports out loud. In shor,t to even play you and your team must communicate with each other verbally.
 
 ## Basic Concept of the game
 If you have ever seen Star Trek, you will recognize the set up. 
