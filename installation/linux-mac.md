@@ -18,4 +18,8 @@ Of course with Bootcamp you can just boot into Windows. This has been tested and
 
 ##Linux
 
-Find a WINE tutorial for your flavor of Linux.
+If you have not installed WINE before, here is an article on it http://www.tecmint.com/install-wine-on-ubuntu-and-linux-mint/
+
+Or find a WINE tutorial for your particular flavor of Linux.
+
+This has been tested in WINE on Unbuntu as ran just fine.
