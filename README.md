@@ -4,9 +4,9 @@ Docs for Playing [Artemis](http://artemis.eochu.com/)
 At IDX we play the Star Trek simulator game Artemis as a team building exercise. This game is perfect for this as players must speak commands and reports out loud. In shor,t to even play you and your team must communicate with each other verbally.
 
 ## Basic Concept of the game
-If you have ever seen Star Trek, you will recognize the set up. 
+If you have ever seen Star Trek, you will recognize the set up.
 
-The crew consists of 
+The crew consists of
 
 * [Captain](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/captain.md) - Monarch of the stars
 
@@ -23,7 +23,7 @@ The crew consists of
 * [Game Master](https://github.com/antonioortegajr/Playing-Artemis-Docs/blob/master/crew-positions/game-master.md) - Place Humanity on trial
 
 
-There is one main screen all players see. The Captian sees only the main screen. Each player will man a station and perform their duties on their own screens. Players can not see the screens of the rest of the crew's stations so verbal communication is used to work together. Team building!
+There is one main screen all players see. The Captain sees only the main screen. Each player will man a station and perform their duties on their own screens. Players can not see the screens of the rest of the crew's stations so verbal communication is used to work together. Team building!
 
 ##Required
 
