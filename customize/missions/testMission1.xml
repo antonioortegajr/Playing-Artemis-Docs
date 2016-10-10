@@ -253,12 +253,12 @@
     <create type="blackHole" x="16141.0" y="0.0" z="9566.0" />
     <create type="blackHole" x="86153.0" y="0.0" z="74382.0" />
     <create type="blackHole" x="78204.0" y="0.0" z="84929.0" />
-    <create type="station" x="46102.0" y="0.0" z="72089.0" angle="0" name="Dari Mart" />
-    <create type="station" x="95784.0" y="0.0" z="82789.0" angle="0" name="am pm" />
-    <create type="station" x="18434.0" y="0.0" z="66433.0" angle="0" name="7-11" />
-    <create type="station" x="75453.0" y="0.0" z="24547.0" angle="0" name="Baddie Base 1" />
-    <create type="station" x="7274.0" y="0.0" z="6662.0" angle="0" name="Baddie Base 2" />
-    <create type="station" x="94867.0" y="0.0" z="9108.0" angle="0" name="Baddies Home" />
+    <create type="station" x="46102.0" y="0.0" z="72089.0" angle="0" name="Dari Mart" sideValue="2" />
+    <create type="station" x="95784.0" y="0.0" z="82789.0" angle="0" name="am pm" sideValue="2" />
+    <create type="station" x="18434.0" y="0.0" z="66433.0" angle="0" name="7-11" sideValue="2" />
+    <create type="station" x="75453.0" y="0.0" z="24547.0" angle="0" name="Baddie Base 1" sideValue="1" />
+    <create type="station" x="7274.0" y="0.0" z="6662.0" angle="0" name="Baddie Base 2" sideValue="1" />
+    <create type="station" x="94867.0" y="0.0" z="9108.0" angle="0" name="Baddies Home" sideValue="1" />
     <create type="enemy" x="92879.0" y="0.0" z="2993.0" angle="0" fleetnumber="-1" />
     <create type="enemy" x="98077.0" y="0.0" z="13694.0" angle="0" fleetnumber="-1" />
     <create type="enemy" x="91809.0" y="0.0" z="13235.0" angle="0" fleetnumber="-1" />
