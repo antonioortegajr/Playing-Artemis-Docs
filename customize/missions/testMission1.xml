@@ -1,0 +1,275 @@
+<mission_data version="1.0" background_id_arme="bc10812a-98d3-43f0-a587-15c063058dcd" playerShipNames_arme="Artemis\Intrepid\Aegis\Horatio\Excalibur\Hera\Ceres\Diana">
+  <start id_arme="bc10812a-98d3-43f0-a587-15c063058dcd">
+    <create type="player" x="50000" y="0" z="50000" name="Artemis" />
+    <set_difficulty_level value="5" />
+    <set_skybox_index index="9" />
+    <big_message title="Unnamed mission" subtitle1="by Unknown Author" subtitle2="adventure for Artemis 2.1" />
+    <set_timer name="start_mission_timer_1" seconds="10" />
+    <set_variable name="chapter_1" value="1" />
+    <create count="10" type="nebulas" startX="67198.0" startY="0.0" startZ="42280.0" endX="67198.0" endY="0.0" endZ="42280.0" />
+    <create count="10" type="nebulas" startX="60013.0" startY="0.0" startZ="45643.0" endX="60013.0" endY="0.0" endZ="45643.0" />
+    <create count="10" type="nebulas" startX="56803.0" startY="0.0" startZ="50382.0" endX="56803.0" endY="0.0" endZ="50382.0" />
+    <create count="10" type="nebulas" startX="48701.0" startY="0.0" startZ="44420.0" endX="48701.0" endY="0.0" endZ="44420.0" />
+    <create count="10" type="nebulas" startX="44879.0" startY="0.0" startZ="40140.0" endX="44879.0" endY="0.0" endZ="40140.0" />
+    <create count="10" type="nebulas" startX="43962.0" startY="0.0" startZ="39222.0" endX="43962.0" endY="0.0" endZ="39222.0" />
+    <create count="10" type="nebulas" startX="34026.0" startY="0.0" startZ="40140.0" endX="34026.0" endY="0.0" endZ="40140.0" />
+    <create count="10" type="nebulas" startX="32039.0" startY="0.0" startZ="41363.0" endX="32039.0" endY="0.0" endZ="41363.0" />
+    <create count="10" type="nebulas" startX="23631.0" startY="0.0" startZ="44573.0" endX="23631.0" endY="0.0" endZ="44573.0" />
+    <create count="10" type="nebulas" startX="12625.0" startY="0.0" startZ="44878.0" endX="12625.0" endY="0.0" endZ="44878.0" />
+    <create count="10" type="nebulas" startX="9567.0" startY="0.0" startZ="43808.0" endX="9567.0" endY="0.0" endZ="43808.0" />
+    <create count="10" type="nebulas" startX="17669.0" startY="0.0" startZ="45184.0" endX="17669.0" endY="0.0" endZ="45184.0" />
+    <create count="10" type="nebulas" startX="32497.0" startY="0.0" startZ="44573.0" endX="32497.0" endY="0.0" endZ="44573.0" />
+    <create count="10" type="nebulas" startX="41822.0" startY="0.0" startZ="51299.0" endX="41822.0" endY="0.0" endZ="51299.0" />
+    <create count="10" type="nebulas" startX="43962.0" startY="0.0" startZ="52369.0" endX="43962.0" endY="0.0" endZ="52369.0" />
+    <create count="10" type="nebulas" startX="51758.0" startY="0.0" startZ="56343.0" endX="51758.0" endY="0.0" endZ="56343.0" />
+    <create count="10" type="nebulas" startX="63071.0" startY="0.0" startZ="54968.0" endX="63071.0" endY="0.0" endZ="54968.0" />
+    <create count="10" type="nebulas" startX="69185.0" startY="0.0" startZ="50840.0" endX="69185.0" endY="0.0" endZ="50840.0" />
+    <create count="10" type="nebulas" startX="72090.0" startY="0.0" startZ="49923.0" endX="72090.0" endY="0.0" endZ="49923.0" />
+    <create count="10" type="nebulas" startX="80497.0" startY="0.0" startZ="47783.0" endX="80497.0" endY="0.0" endZ="47783.0" />
+    <create count="10" type="nebulas" startX="87376.0" startY="0.0" startZ="48853.0" endX="87376.0" endY="0.0" endZ="48853.0" />
+    <create count="10" type="nebulas" startX="93185.0" startY="0.0" startZ="50993.0" endX="93185.0" endY="0.0" endZ="50993.0" />
+    <create count="10" type="nebulas" startX="75300.0" startY="0.0" startZ="46560.0" endX="75300.0" endY="0.0" endZ="46560.0" />
+    <create count="10" type="nebulas" startX="68421.0" startY="0.0" startZ="47630.0" endX="68421.0" endY="0.0" endZ="47630.0" />
+    <create count="10" type="nebulas" startX="63223.0" startY="0.0" startZ="50076.0" endX="63223.0" endY="0.0" endZ="50076.0" />
+    <create count="10" type="nebulas" startX="51300.0" startY="0.0" startZ="51605.0" endX="51300.0" endY="0.0" endZ="51605.0" />
+    <create count="10" type="nebulas" startX="44574.0" startY="0.0" startZ="47019.0" endX="44574.0" endY="0.0" endZ="47019.0" />
+    <create count="10" type="nebulas" startX="36472.0" startY="0.0" startZ="48394.0" endX="36472.0" endY="0.0" endZ="48394.0" />
+    <create count="10" type="nebulas" startX="27911.0" startY="0.0" startZ="50229.0" endX="27911.0" endY="0.0" endZ="50229.0" />
+    <create count="10" type="nebulas" startX="15835.0" startY="0.0" startZ="52216.0" endX="15835.0" endY="0.0" endZ="52216.0" />
+    <create count="10" type="nebulas" startX="4829.0" startY="0.0" startZ="47936.0" endX="4829.0" endY="0.0" endZ="47936.0" />
+    <create count="10" type="nebulas" startX="2536.0" startY="0.0" startZ="40140.0" endX="2536.0" endY="0.0" endZ="40140.0" />
+    <create count="10" type="nebulas" startX="2536.0" startY="0.0" startZ="33414.0" endX="2536.0" endY="0.0" endZ="33414.0" />
+    <create count="10" type="nebulas" startX="20421.0" startY="0.0" startZ="39834.0" endX="20421.0" endY="0.0" endZ="39834.0" />
+    <create count="10" type="nebulas" startX="28217.0" startY="0.0" startZ="44573.0" endX="28217.0" endY="0.0" endZ="44573.0" />
+    <create count="10" type="nebulas" startX="37848.0" startY="0.0" startZ="44573.0" endX="37848.0" endY="0.0" endZ="44573.0" />
+    <create count="10" type="nebulas" startX="55733.0" startY="0.0" startZ="43808.0" endX="55733.0" endY="0.0" endZ="43808.0" />
+    <create count="10" type="nebulas" startX="98994.0" startY="0.0" startZ="67808.0" endX="98994.0" endY="0.0" endZ="67808.0" />
+    <create count="10" type="nebulas" startX="94867.0" startY="0.0" startZ="63987.0" endX="94867.0" endY="0.0" endZ="63987.0" />
+    <create count="10" type="nebulas" startX="93032.0" startY="0.0" startZ="61694.0" endX="93032.0" endY="0.0" endZ="61694.0" />
+    <create count="10" type="nebulas" startX="87529.0" startY="0.0" startZ="56496.0" endX="87529.0" endY="0.0" endZ="56496.0" />
+    <create count="10" type="nebulas" startX="83860.0" startY="0.0" startZ="52980.0" endX="83860.0" endY="0.0" endZ="52980.0" />
+    <create count="10" type="nebulas" startX="78816.0" startY="0.0" startZ="51757.0" endX="78816.0" endY="0.0" endZ="51757.0" />
+    <create count="10" type="nebulas" startX="92727.0" startY="0.0" startZ="57566.0" endX="92727.0" endY="0.0" endZ="57566.0" />
+    <create count="10" type="nebulas" startX="97007.0" startY="0.0" startZ="58636.0" endX="97007.0" endY="0.0" endZ="58636.0" />
+    <create count="10" type="nebulas" startX="98230.0" startY="0.0" startZ="57414.0" endX="98230.0" endY="0.0" endZ="57414.0" />
+    <create count="10" type="nebulas" startX="74841.0" startY="0.0" startZ="42891.0" endX="74841.0" endY="0.0" endZ="42891.0" />
+    <create count="10" type="nebulas" startX="62765.0" startY="0.0" startZ="34942.0" endX="62765.0" endY="0.0" endZ="34942.0" />
+    <create count="10" type="nebulas" startX="49007.0" startY="0.0" startZ="30203.0" endX="49007.0" endY="0.0" endZ="30203.0" />
+    <create count="10" type="nebulas" startX="43351.0" startY="0.0" startZ="36929.0" endX="43351.0" endY="0.0" endZ="36929.0" />
+    <create count="10" type="nebulas" startX="41669.0" startY="0.0" startZ="39681.0" endX="41669.0" endY="0.0" endZ="39681.0" />
+    <create count="10" type="nebulas" startX="53287.0" startY="0.0" startZ="33719.0" endX="53287.0" endY="0.0" endZ="33719.0" />
+    <create count="10" type="nebulas" startX="56192.0" startY="0.0" startZ="34178.0" endX="56192.0" endY="0.0" endZ="34178.0" />
+    <create count="10" type="nebulas" startX="53746.0" startY="0.0" startZ="40292.0" endX="53746.0" endY="0.0" endZ="40292.0" />
+    <create count="10" type="nebulas" startX="49771.0" startY="0.0" startZ="40292.0" endX="49771.0" endY="0.0" endZ="40292.0" />
+    <create count="10" type="nebulas" startX="63835.0" startY="0.0" startZ="41974.0" endX="63835.0" endY="0.0" endZ="41974.0" />
+    <create count="10" type="nebulas" startX="64752.0" startY="0.0" startZ="44420.0" endX="64752.0" endY="0.0" endZ="44420.0" />
+    <create count="10" type="nebulas" startX="58637.0" startY="0.0" startZ="38917.0" endX="58637.0" endY="0.0" endZ="38917.0" />
+    <create count="10" type="nebulas" startX="53593.0" startY="0.0" startZ="47936.0" endX="53593.0" endY="0.0" endZ="47936.0" />
+    <create count="10" type="nebulas" startX="48701.0" startY="0.0" startZ="49159.0" endX="48701.0" endY="0.0" endZ="49159.0" />
+    <create count="10" type="nebulas" startX="41975.0" startY="0.0" startZ="43808.0" endX="41975.0" endY="0.0" endZ="43808.0" />
+    <create count="10" type="nebulas" startX="22867.0" startY="0.0" startZ="50382.0" endX="22867.0" endY="0.0" endZ="50382.0" />
+    <create count="10" type="nebulas" startX="10637.0" startY="0.0" startZ="51605.0" endX="10637.0" endY="0.0" endZ="51605.0" />
+    <create count="10" type="nebulas" startX="8956.0" startY="0.0" startZ="50382.0" endX="8956.0" endY="0.0" endZ="50382.0" />
+    <create count="10" type="nebulas" startX="13389.0" startY="0.0" startZ="41363.0" endX="13389.0" endY="0.0" endZ="41363.0" />
+    <create count="10" type="nebulas" startX="52523.0" startY="0.0" startZ="34789.0" endX="52523.0" endY="0.0" endZ="34789.0" />
+    <create count="10" type="nebulas" startX="52523.0" startY="0.0" startZ="34942.0" endX="52523.0" endY="0.0" endZ="34942.0" />
+    <create count="10" type="nebulas" startX="48243.0" startY="0.0" startZ="35554.0" endX="48243.0" endY="0.0" endZ="35554.0" />
+    <create count="10" type="nebulas" startX="59555.0" startY="0.0" startZ="42585.0" endX="59555.0" endY="0.0" endZ="42585.0" />
+    <create count="10" type="nebulas" startX="51758.0" startY="0.0" startZ="44878.0" endX="51758.0" endY="0.0" endZ="44878.0" />
+    <create count="10" type="nebulas" startX="45644.0" startY="0.0" startZ="43656.0" endX="45644.0" endY="0.0" endZ="43656.0" />
+    <create count="10" type="nebulas" startX="59096.0" startY="0.0" startZ="54356.0" endX="59096.0" endY="0.0" endZ="54356.0" />
+    <create count="10" type="nebulas" startX="55580.0" startY="0.0" startZ="55579.0" endX="55580.0" endY="0.0" endZ="55579.0" />
+    <create count="10" type="nebulas" startX="70714.0" startY="0.0" startZ="44726.0" endX="70714.0" endY="0.0" endZ="44726.0" />
+    <create count="10" type="nebulas" startX="89669.0" startY="0.0" startZ="53439.0" endX="89669.0" endY="0.0" endZ="53439.0" />
+    <create count="10" type="nebulas" startX="89975.0" startY="0.0" startZ="53745.0" endX="89975.0" endY="0.0" endZ="53745.0" />
+    <create count="10" type="nebulas" startX="92115.0" startY="0.0" startZ="54968.0" endX="92115.0" endY="0.0" endZ="54968.0" />
+    <create count="10" type="nebulas" startX="32803.0" startY="0.0" startZ="48547.0" endX="32803.0" endY="0.0" endZ="48547.0" />
+    <create count="10" type="nebulas" startX="25924.0" startY="0.0" startZ="47783.0" endX="25924.0" endY="0.0" endZ="47783.0" />
+    <create count="10" type="nebulas" startX="23937.0" startY="0.0" startZ="48242.0" endX="23937.0" endY="0.0" endZ="48242.0" />
+    <create count="10" type="nebulas" startX="20727.0" startY="0.0" startZ="48853.0" endX="20727.0" endY="0.0" endZ="48853.0" />
+    <create count="10" type="nebulas" startX="16293.0" startY="0.0" startZ="49159.0" endX="16293.0" endY="0.0" endZ="49159.0" />
+    <create count="10" type="nebulas" startX="14000.0" startY="0.0" startZ="48853.0" endX="14000.0" endY="0.0" endZ="48853.0" />
+    <create count="10" type="nebulas" startX="7580.0" startY="0.0" startZ="46407.0" endX="7580.0" endY="0.0" endZ="46407.0" />
+    <create count="10" type="nebulas" startX="5440.0" startY="0.0" startZ="44420.0" endX="5440.0" endY="0.0" endZ="44420.0" />
+    <create count="10" type="nebulas" startX="5899.0" startY="0.0" startZ="39681.0" endX="5899.0" endY="0.0" endZ="39681.0" />
+    <create count="10" type="nebulas" startX="5134.0" startY="0.0" startZ="38458.0" endX="5134.0" endY="0.0" endZ="38458.0" />
+    <create count="10" type="nebulas" startX="-369.0" startY="0.0" startZ="32191.0" endX="-369.0" endY="0.0" endZ="32191.0" />
+    <create count="10" type="nebulas" startX="11860.0" startY="0.0" startZ="42433.0" endX="11860.0" endY="0.0" endZ="42433.0" />
+    <create count="10" type="nebulas" startX="4523.0" startY="0.0" startZ="33414.0" endX="4523.0" endY="0.0" endZ="33414.0" />
+    <create count="10" type="nebulas" startX="8956.0" startY="0.0" startZ="39222.0" endX="8956.0" endY="0.0" endZ="39222.0" />
+    <create count="10" type="nebulas" startX="10332.0" startY="0.0" startZ="41057.0" endX="10332.0" endY="0.0" endZ="41057.0" />
+    <create count="10" type="nebulas" startX="23478.0" startY="0.0" startZ="41974.0" endX="23478.0" endY="0.0" endZ="41974.0" />
+    <create count="10" type="nebulas" startX="31274.0" startY="0.0" startZ="47019.0" endX="31274.0" endY="0.0" endZ="47019.0" />
+    <create count="10" type="nebulas" startX="28981.0" startY="0.0" startZ="47630.0" endX="28981.0" endY="0.0" endZ="47630.0" />
+    <create count="10" type="nebulas" startX="37848.0" startY="0.0" startZ="43044.0" endX="37848.0" endY="0.0" endZ="43044.0" />
+    <create count="10" type="nebulas" startX="36625.0" startY="0.0" startZ="43808.0" endX="36625.0" endY="0.0" endZ="43808.0" />
+    <create count="10" type="nebulas" startX="41211.0" startY="0.0" startZ="47477.0" endX="41211.0" endY="0.0" endZ="47477.0" />
+    <create count="10" type="nebulas" startX="40141.0" startY="0.0" startZ="48242.0" endX="40141.0" endY="0.0" endZ="48242.0" />
+    <create count="10" type="mines" startX="88599.0" startY="0.0" startZ="65363.0" endX="88599.0" endY="0.0" endZ="65363.0" />
+    <create count="10" type="mines" startX="84778.0" startY="0.0" startZ="66738.0" endX="84778.0" endY="0.0" endZ="66738.0" />
+    <create count="10" type="mines" startX="82332.0" startY="0.0" startZ="68573.0" endX="82332.0" endY="0.0" endZ="68573.0" />
+    <create count="10" type="mines" startX="92879.0" startY="0.0" startZ="66891.0" endX="92879.0" endY="0.0" endZ="66891.0" />
+    <create count="10" type="mines" startX="94714.0" startY="0.0" startZ="70101.0" endX="94714.0" endY="0.0" endZ="70101.0" />
+    <create count="10" type="mines" startX="90281.0" startY="0.0" startZ="69031.0" endX="90281.0" endY="0.0" endZ="69031.0" />
+    <create count="10" type="mines" startX="80039.0" startY="0.0" startZ="72547.0" endX="80039.0" endY="0.0" endZ="72547.0" />
+    <create count="10" type="mines" startX="80192.0" startY="0.0" startZ="76216.0" endX="80192.0" endY="0.0" endZ="76216.0" />
+    <create count="10" type="mines" startX="80039.0" startY="0.0" startZ="77592.0" endX="80039.0" endY="0.0" endZ="77592.0" />
+    <create count="10" type="mines" startX="77134.0" startY="0.0" startZ="79885.0" endX="77134.0" endY="0.0" endZ="79885.0" />
+    <create count="10" type="mines" startX="98077.0" startY="0.0" startZ="73006.0" endX="98077.0" endY="0.0" endZ="73006.0" />
+    <create count="10" type="mines" startX="96548.0" startY="0.0" startZ="74076.0" endX="96548.0" endY="0.0" endZ="74076.0" />
+    <create count="10" type="mines" startX="92879.0" startY="0.0" startZ="72853.0" endX="92879.0" endY="0.0" endZ="72853.0" />
+    <create count="10" type="mines" startX="87071.0" startY="0.0" startZ="70560.0" endX="87071.0" endY="0.0" endZ="70560.0" />
+    <create count="10" type="mines" startX="84319.0" startY="0.0" startZ="71019.0" endX="84319.0" endY="0.0" endZ="71019.0" />
+    <create count="10" type="mines" startX="82943.0" startY="0.0" startZ="80649.0" endX="82943.0" endY="0.0" endZ="80649.0" />
+    <create count="10" type="mines" startX="80497.0" startY="0.0" startZ="80802.0" endX="80497.0" endY="0.0" endZ="80802.0" />
+    <create count="10" type="mines" startX="82790.0" startY="0.0" startZ="77745.0" endX="82790.0" endY="0.0" endZ="77745.0" />
+    <create count="10" type="mines" startX="57262.0" startY="0.0" startZ="64751.0" endX="57262.0" endY="0.0" endZ="64751.0" />
+    <create count="10" type="mines" startX="54510.0" startY="0.0" startZ="62000.0" endX="54510.0" endY="0.0" endZ="62000.0" />
+    <create count="10" type="mines" startX="52981.0" startY="0.0" startZ="61082.0" endX="52981.0" endY="0.0" endZ="61082.0" />
+    <create count="10" type="mines" startX="50383.0" startY="0.0" startZ="60012.0" endX="50383.0" endY="0.0" endZ="60012.0" />
+    <create count="10" type="mines" startX="50230.0" startY="0.0" startZ="60012.0" endX="50230.0" endY="0.0" endZ="60012.0" />
+    <create count="10" type="mines" startX="47937.0" startY="0.0" startZ="58789.0" endX="47937.0" endY="0.0" endZ="58789.0" />
+    <create count="10" type="mines" startX="48548.0" startY="0.0" startZ="61388.0" endX="48548.0" endY="0.0" endZ="61388.0" />
+    <create count="10" type="mines" startX="50688.0" startY="0.0" startZ="63070.0" endX="50688.0" endY="0.0" endZ="63070.0" />
+    <create count="10" type="mines" startX="52064.0" startY="0.0" startZ="63987.0" endX="52064.0" endY="0.0" endZ="63987.0" />
+    <create count="10" type="mines" startX="53746.0" startY="0.0" startZ="65210.0" endX="53746.0" endY="0.0" endZ="65210.0" />
+    <create count="10" type="mines" startX="55122.0" startY="0.0" startZ="66891.0" endX="55122.0" endY="0.0" endZ="66891.0" />
+    <create count="10" type="mines" startX="57415.0" startY="0.0" startZ="68726.0" endX="57415.0" endY="0.0" endZ="68726.0" />
+    <create count="10" type="mines" startX="60319.0" startY="0.0" startZ="67656.0" endX="60319.0" endY="0.0" endZ="67656.0" />
+    <create count="10" type="mines" startX="31122.0" startY="0.0" startZ="53898.0" endX="31122.0" endY="0.0" endZ="53898.0" />
+    <create count="10" type="mines" startX="25313.0" startY="0.0" startZ="52675.0" endX="25313.0" endY="0.0" endZ="52675.0" />
+    <create count="10" type="mines" startX="20879.0" startY="0.0" startZ="54203.0" endX="20879.0" endY="0.0" endZ="54203.0" />
+    <create count="10" type="mines" startX="17364.0" startY="0.0" startZ="54509.0" endX="17364.0" endY="0.0" endZ="54509.0" />
+    <create count="10" type="mines" startX="18586.0" startY="0.0" startZ="55426.0" endX="18586.0" endY="0.0" endZ="55426.0" />
+    <create count="10" type="mines" startX="22714.0" startY="0.0" startZ="54050.0" endX="22714.0" endY="0.0" endZ="54050.0" />
+    <create count="10" type="mines" startX="26688.0" startY="0.0" startZ="54050.0" endX="26688.0" endY="0.0" endZ="54050.0" />
+    <create count="10" type="mines" startX="28523.0" startY="0.0" startZ="54203.0" endX="28523.0" endY="0.0" endZ="54203.0" />
+    <create count="10" type="mines" startX="32039.0" startY="0.0" startZ="56649.0" endX="32039.0" endY="0.0" endZ="56649.0" />
+    <create count="10" type="mines" startX="29899.0" startY="0.0" startZ="56955.0" endX="29899.0" endY="0.0" endZ="56955.0" />
+    <create count="10" type="mines" startX="28829.0" startY="0.0" startZ="56955.0" endX="28829.0" endY="0.0" endZ="56955.0" />
+    <create count="10" type="mines" startX="26994.0" startY="0.0" startZ="56802.0" endX="26994.0" endY="0.0" endZ="56802.0" />
+    <create count="10" type="mines" startX="26230.0" startY="0.0" startZ="56802.0" endX="26230.0" endY="0.0" endZ="56802.0" />
+    <create count="10" type="mines" startX="23937.0" startY="0.0" startZ="56802.0" endX="23937.0" endY="0.0" endZ="56802.0" />
+    <create count="10" type="mines" startX="23020.0" startY="0.0" startZ="56802.0" endX="23020.0" endY="0.0" endZ="56802.0" />
+    <create count="10" type="mines" startX="20879.0" startY="0.0" startZ="56802.0" endX="20879.0" endY="0.0" endZ="56802.0" />
+    <create count="10" type="mines" startX="17822.0" startY="0.0" startZ="57872.0" endX="17822.0" endY="0.0" endZ="57872.0" />
+    <create count="10" type="mines" startX="15835.0" startY="0.0" startZ="56343.0" endX="15835.0" endY="0.0" endZ="56343.0" />
+    <create count="10" type="mines" startX="24701.0" startY="0.0" startZ="55273.0" endX="24701.0" endY="0.0" endZ="55273.0" />
+    <create count="10" type="mines" startX="56344.0" startY="0.0" startZ="70254.0" endX="56344.0" endY="0.0" endZ="70254.0" />
+    <create count="10" type="mines" startX="54663.0" startY="0.0" startZ="68726.0" endX="54663.0" endY="0.0" endZ="68726.0" />
+    <create count="10" type="mines" startX="53134.0" startY="0.0" startZ="67503.0" endX="53134.0" endY="0.0" endZ="67503.0" />
+    <create count="10" type="mines" startX="51758.0" startY="0.0" startZ="66433.0" endX="51758.0" endY="0.0" endZ="66433.0" />
+    <create count="10" type="mines" startX="50230.0" startY="0.0" startZ="65363.0" endX="50230.0" endY="0.0" endZ="65363.0" />
+    <create count="10" type="mines" startX="48548.0" startY="0.0" startZ="63834.0" endX="48548.0" endY="0.0" endZ="63834.0" />
+    <create count="10" type="mines" startX="47172.0" startY="0.0" startZ="62917.0" endX="47172.0" endY="0.0" endZ="62917.0" />
+    <create count="10" type="mines" startX="29746.0" startY="0.0" startZ="59095.0" endX="29746.0" endY="0.0" endZ="59095.0" />
+    <create count="10" type="mines" startX="28064.0" startY="0.0" startZ="59095.0" endX="28064.0" endY="0.0" endZ="59095.0" />
+    <create count="10" type="mines" startX="26383.0" startY="0.0" startZ="59248.0" endX="26383.0" endY="0.0" endZ="59248.0" />
+    <create count="10" type="mines" startX="24548.0" startY="0.0" startZ="59095.0" endX="24548.0" endY="0.0" endZ="59095.0" />
+    <create count="10" type="mines" startX="22561.0" startY="0.0" startZ="59095.0" endX="22561.0" endY="0.0" endZ="59095.0" />
+    <create count="10" type="mines" startX="20268.0" startY="0.0" startZ="58942.0" endX="20268.0" endY="0.0" endZ="58942.0" />
+    <create count="10" type="mines" startX="17211.0" startY="0.0" startZ="59707.0" endX="17211.0" endY="0.0" endZ="59707.0" />
+    <create count="10" type="mines" startX="87835.0" startY="0.0" startZ="68573.0" endX="87835.0" endY="0.0" endZ="68573.0" />
+    <create count="10" type="mines" startX="90281.0" startY="0.0" startZ="72242.0" endX="90281.0" endY="0.0" endZ="72242.0" />
+    <create count="10" type="mines" startX="97465.0" startY="0.0" startZ="71171.0" endX="97465.0" endY="0.0" endZ="71171.0" />
+    <create count="10" type="mines" startX="94867.0" startY="0.0" startZ="72547.0" endX="94867.0" endY="0.0" endZ="72547.0" />
+    <create count="10" type="mines" startX="90281.0" startY="0.0" startZ="66127.0" endX="90281.0" endY="0.0" endZ="66127.0" />
+    <create count="10" type="mines" startX="82485.0" startY="0.0" startZ="74993.0" endX="82485.0" endY="0.0" endZ="74993.0" />
+    <create count="10" type="mines" startX="78051.0" startY="0.0" startZ="77439.0" endX="78051.0" endY="0.0" endZ="77439.0" />
+    <create count="10" type="mines" startX="78357.0" startY="0.0" startZ="74687.0" endX="78357.0" endY="0.0" endZ="74687.0" />
+    <create count="10" type="asteroids" startX="86612.0" startY="0.0" startZ="42585.0" endX="86612.0" endY="0.0" endZ="42585.0" />
+    <create count="10" type="asteroids" startX="82790.0" startY="0.0" startZ="42738.0" endX="82790.0" endY="0.0" endZ="42738.0" />
+    <create count="10" type="asteroids" startX="78051.0" startY="0.0" startZ="42891.0" endX="78051.0" endY="0.0" endZ="42891.0" />
+    <create count="10" type="asteroids" startX="76981.0" startY="0.0" startZ="46866.0" endX="76981.0" endY="0.0" endZ="46866.0" />
+    <create count="10" type="asteroids" startX="80039.0" startY="0.0" startZ="48394.0" endX="80039.0" endY="0.0" endZ="48394.0" />
+    <create count="10" type="asteroids" startX="83249.0" startY="0.0" startZ="48394.0" endX="83249.0" endY="0.0" endZ="48394.0" />
+    <create count="10" type="asteroids" startX="86765.0" startY="0.0" startZ="47783.0" endX="86765.0" endY="0.0" endZ="47783.0" />
+    <create count="10" type="asteroids" startX="89975.0" startY="0.0" startZ="45184.0" endX="89975.0" endY="0.0" endZ="45184.0" />
+    <create count="10" type="asteroids" startX="89669.0" startY="0.0" startZ="39834.0" endX="89669.0" endY="0.0" endZ="39834.0" />
+    <create count="10" type="asteroids" startX="84166.0" startY="0.0" startZ="38764.0" endX="84166.0" endY="0.0" endZ="38764.0" />
+    <create count="10" type="asteroids" startX="80650.0" startY="0.0" startZ="38611.0" endX="80650.0" endY="0.0" endZ="38611.0" />
+    <create count="10" type="asteroids" startX="76217.0" startY="0.0" startZ="38917.0" endX="76217.0" endY="0.0" endZ="38917.0" />
+    <create count="10" type="asteroids" startX="73924.0" startY="0.0" startZ="41057.0" endX="73924.0" endY="0.0" endZ="41057.0" />
+    <create count="10" type="asteroids" startX="71937.0" startY="0.0" startZ="45031.0" endX="71937.0" endY="0.0" endZ="45031.0" />
+    <create count="10" type="asteroids" startX="71937.0" startY="0.0" startZ="49464.0" endX="71937.0" endY="0.0" endZ="49464.0" />
+    <create count="10" type="asteroids" startX="75606.0" startY="0.0" startZ="52216.0" endX="75606.0" endY="0.0" endZ="52216.0" />
+    <create count="10" type="asteroids" startX="79733.0" startY="0.0" startZ="53439.0" endX="79733.0" endY="0.0" endZ="53439.0" />
+    <create count="10" type="asteroids" startX="83096.0" startY="0.0" startZ="52369.0" endX="83096.0" endY="0.0" endZ="52369.0" />
+    <create count="10" type="asteroids" startX="86918.0" startY="0.0" startZ="51605.0" endX="86918.0" endY="0.0" endZ="51605.0" />
+    <create count="10" type="asteroids" startX="91809.0" startY="0.0" startZ="49312.0" endX="91809.0" endY="0.0" endZ="49312.0" />
+    <create count="10" type="asteroids" startX="92421.0" startY="0.0" startZ="44878.0" endX="92421.0" endY="0.0" endZ="44878.0" />
+    <create count="10" type="asteroids" startX="45491.0" startY="0.0" startZ="30968.0" endX="45491.0" endY="0.0" endZ="30968.0" />
+    <create count="10" type="asteroids" startX="47020.0" startY="0.0" startZ="34789.0" endX="47020.0" endY="0.0" endZ="34789.0" />
+    <create count="10" type="asteroids" startX="45950.0" startY="0.0" startZ="38611.0" endX="45950.0" endY="0.0" endZ="38611.0" />
+    <create count="10" type="asteroids" startX="44879.0" startY="0.0" startZ="41821.0" endX="44879.0" endY="0.0" endZ="41821.0" />
+    <create count="10" type="asteroids" startX="41058.0" startY="0.0" startZ="41821.0" endX="41058.0" endY="0.0" endZ="41821.0" />
+    <create count="10" type="asteroids" startX="37389.0" startY="0.0" startZ="40445.0" endX="37389.0" endY="0.0" endZ="40445.0" />
+    <create count="10" type="asteroids" startX="33567.0" startY="0.0" startZ="38764.0" endX="33567.0" endY="0.0" endZ="38764.0" />
+    <create count="10" type="asteroids" startX="32039.0" startY="0.0" startZ="36012.0" endX="32039.0" endY="0.0" endZ="36012.0" />
+    <create count="10" type="asteroids" startX="30969.0" startY="0.0" startZ="32496.0" endX="30969.0" endY="0.0" endZ="32496.0" />
+    <create count="10" type="asteroids" startX="32650.0" startY="0.0" startZ="29439.0" endX="32650.0" endY="0.0" endZ="29439.0" />
+    <create count="10" type="asteroids" startX="35555.0" startY="0.0" startZ="27910.0" endX="35555.0" endY="0.0" endZ="27910.0" />
+    <create count="10" type="asteroids" startX="38153.0" startY="0.0" startZ="27910.0" endX="38153.0" endY="0.0" endZ="27910.0" />
+    <create count="10" type="asteroids" startX="40752.0" startY="0.0" startZ="28675.0" endX="40752.0" endY="0.0" endZ="28675.0" />
+    <create count="10" type="asteroids" startX="42892.0" startY="0.0" startZ="29439.0" endX="42892.0" endY="0.0" endZ="29439.0" />
+    <create count="10" type="asteroids" startX="43351.0" startY="0.0" startZ="32649.0" endX="43351.0" endY="0.0" endZ="32649.0" />
+    <create count="10" type="asteroids" startX="44421.0" startY="0.0" startZ="35707.0" endX="44421.0" endY="0.0" endZ="35707.0" />
+    <create count="10" type="asteroids" startX="43809.0" startY="0.0" startZ="38152.0" endX="43809.0" endY="0.0" endZ="38152.0" />
+    <create count="10" type="asteroids" startX="42128.0" startY="0.0" startZ="39681.0" endX="42128.0" endY="0.0" endZ="39681.0" />
+    <create count="10" type="asteroids" startX="39529.0" startY="0.0" startZ="39222.0" endX="39529.0" endY="0.0" endZ="39222.0" />
+    <create count="10" type="asteroids" startX="36778.0" startY="0.0" startZ="37847.0" endX="36778.0" endY="0.0" endZ="37847.0" />
+    <create count="10" type="asteroids" startX="34637.0" startY="0.0" startZ="35859.0" endX="34637.0" endY="0.0" endZ="35859.0" />
+    <create count="10" type="asteroids" startX="33567.0" startY="0.0" startZ="33261.0" endX="33567.0" endY="0.0" endZ="33261.0" />
+    <create count="10" type="asteroids" startX="35249.0" startY="0.0" startZ="32038.0" endX="35249.0" endY="0.0" endZ="32038.0" />
+    <create count="10" type="asteroids" startX="38153.0" startY="0.0" startZ="31273.0" endX="38153.0" endY="0.0" endZ="31273.0" />
+    <create count="10" type="asteroids" startX="40293.0" startY="0.0" startZ="32038.0" endX="40293.0" endY="0.0" endZ="32038.0" />
+    <create count="10" type="asteroids" startX="41211.0" startY="0.0" startZ="34942.0" endX="41211.0" endY="0.0" endZ="34942.0" />
+    <create count="10" type="asteroids" startX="41516.0" startY="0.0" startZ="37082.0" endX="41516.0" endY="0.0" endZ="37082.0" />
+    <create count="10" type="asteroids" startX="38765.0" startY="0.0" startZ="36165.0" endX="38765.0" endY="0.0" endZ="36165.0" />
+    <create count="10" type="asteroids" startX="37236.0" startY="0.0" startZ="34331.0" endX="37236.0" endY="0.0" endZ="34331.0" />
+    <create count="10" type="asteroids" startX="41822.0" startY="0.0" startZ="95019.0" endX="41822.0" endY="0.0" endZ="95019.0" />
+    <create count="10" type="asteroids" startX="37389.0" startY="0.0" startZ="90738.0" endX="37389.0" endY="0.0" endZ="90738.0" />
+    <create count="10" type="asteroids" startX="34485.0" startY="0.0" startZ="88292.0" endX="34485.0" endY="0.0" endZ="88292.0" />
+    <create count="10" type="asteroids" startX="30969.0" startY="0.0" startZ="86611.0" endX="30969.0" endY="0.0" endZ="86611.0" />
+    <create count="10" type="asteroids" startX="28064.0" startY="0.0" startZ="86917.0" endX="28064.0" endY="0.0" endZ="86917.0" />
+    <create count="10" type="asteroids" startX="26536.0" startY="0.0" startZ="90280.0" endX="26536.0" endY="0.0" endZ="90280.0" />
+    <create count="10" type="asteroids" startX="27758.0" startY="0.0" startZ="93796.0" endX="27758.0" endY="0.0" endZ="93796.0" />
+    <create count="10" type="asteroids" startX="29746.0" startY="0.0" startZ="94713.0" endX="29746.0" endY="0.0" endZ="94713.0" />
+    <create count="10" type="asteroids" startX="33415.0" startY="0.0" startZ="96853.0" endX="33415.0" endY="0.0" endZ="96853.0" />
+    <create count="10" type="asteroids" startX="37542.0" startY="0.0" startZ="98076.0" endX="37542.0" endY="0.0" endZ="98076.0" />
+    <create count="10" type="asteroids" startX="38765.0" startY="0.0" startZ="93796.0" endX="38765.0" endY="0.0" endZ="93796.0" />
+    <create count="10" type="asteroids" startX="36319.0" startY="0.0" startZ="94713.0" endX="36319.0" endY="0.0" endZ="94713.0" />
+    <create count="10" type="asteroids" startX="34179.0" startY="0.0" startZ="91808.0" endX="34179.0" endY="0.0" endZ="91808.0" />
+    <create count="10" type="asteroids" startX="32803.0" startY="0.0" startZ="92420.0" endX="32803.0" endY="0.0" endZ="92420.0" />
+    <create count="10" type="asteroids" startX="30663.0" startY="0.0" startZ="90738.0" endX="30663.0" endY="0.0" endZ="90738.0" />
+    <create count="10" type="asteroids" startX="40599.0" startY="0.0" startZ="97923.0" endX="40599.0" endY="0.0" endZ="97923.0" />
+    <create count="10" type="asteroids" startX="84472.0" startY="0.0" startZ="45184.0" endX="84472.0" endY="0.0" endZ="45184.0" />
+    <create count="10" type="asteroids" startX="89058.0" startY="0.0" startZ="49923.0" endX="89058.0" endY="0.0" endZ="49923.0" />
+    <create count="10" type="asteroids" startX="90281.0" startY="0.0" startZ="47630.0" endX="90281.0" endY="0.0" endZ="47630.0" />
+    <create count="10" type="asteroids" startX="72854.0" startY="0.0" startZ="38764.0" endX="72854.0" endY="0.0" endZ="38764.0" />
+    <create count="10" type="asteroids" startX="70102.0" startY="0.0" startZ="41363.0" endX="70102.0" endY="0.0" endZ="41363.0" />
+    <create count="10" type="asteroids" startX="68115.0" startY="0.0" startZ="45184.0" endX="68115.0" endY="0.0" endZ="45184.0" />
+    <create count="10" type="asteroids" startX="68268.0" startY="0.0" startZ="48547.0" endX="68268.0" endY="0.0" endZ="48547.0" />
+    <create type="blackHole" x="16141.0" y="0.0" z="9566.0" />
+    <create type="blackHole" x="86153.0" y="0.0" z="74382.0" />
+    <create type="blackHole" x="78204.0" y="0.0" z="84929.0" />
+    <create type="station" x="46102.0" y="0.0" z="72089.0" angle="0" name="Dari Mart" />
+    <create type="station" x="95784.0" y="0.0" z="82789.0" angle="0" name="am pm" />
+    <create type="station" x="18434.0" y="0.0" z="66433.0" angle="0" name="7-11" />
+    <create type="station" x="75453.0" y="0.0" z="24547.0" angle="0" name="Baddie Base 1" />
+    <create type="station" x="7274.0" y="0.0" z="6662.0" angle="0" name="Baddie Base 2" />
+    <create type="station" x="94867.0" y="0.0" z="9108.0" angle="0" name="Baddies Home" />
+    <create type="enemy" x="92879.0" y="0.0" z="2993.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="98077.0" y="0.0" z="13694.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="91809.0" y="0.0" z="13235.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="88905.0" y="0.0" z="9108.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="13389.0" y="0.0" z="1617.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="17822.0" y="0.0" z="2229.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="2230.0" y="0.0" z="2076.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="72090.0" y="0.0" z="30662.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="67351.0" y="0.0" z="30815.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="98536.0" y="0.0" z="2229.0" angle="0" fleetnumber="-1" />
+    <create type="enemy" x="98536.0" y="0.0" z="7885.0" angle="0" fleetnumber="-1" />
+    <create type="player" x="42281.0" y="0.0" z="77286.0" angle="0" name="Artemis" sideValue="2" accent_color="green" />
+  </start>
+</mission_data>
