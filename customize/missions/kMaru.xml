@@ -1,0 +1,127 @@
+<mission_data version="1.0" background_id_arme="d1fda690-a536-4801-85d0-a2fe386991fc" playerShipNames_arme="Artemis\Intrepid\Aegis\Horatio\Excalibur\Hera\Ceres\Diana">
+  <start id_arme="d1fda690-a536-4801-85d0-a2fe386991fc">
+    <create count="10" type="asteroids" startX="36319.0" startY="0.0" startZ="30356.0" endX="36319.0" endY="0.0" endZ="30356.0" />
+    <create count="10" type="asteroids" startX="6969.0" startY="0.0" startZ="44726.0" endX="6969.0" endY="0.0" endZ="44726.0" />
+    <create count="10" type="asteroids" startX="37083.0" startY="0.0" startZ="38152.0" endX="37083.0" endY="0.0" endZ="38152.0" />
+    <create count="10" type="asteroids" startX="30051.0" startY="0.0" startZ="35401.0" endX="30051.0" endY="0.0" endZ="35401.0" />
+    <create count="10" type="asteroids" startX="30357.0" startY="0.0" startZ="30662.0" endX="30357.0" endY="0.0" endZ="30662.0" />
+    <create count="10" type="asteroids" startX="24854.0" startY="0.0" startZ="35554.0" endX="24854.0" endY="0.0" endZ="35554.0" />
+    <create count="10" type="asteroids" startX="16905.0" startY="0.0" startZ="35707.0" endX="16905.0" endY="0.0" endZ="35707.0" />
+    <create count="10" type="asteroids" startX="13848.0" startY="0.0" startZ="42891.0" endX="13848.0" endY="0.0" endZ="42891.0" />
+    <create count="10" type="asteroids" startX="21491.0" startY="0.0" startZ="41057.0" endX="21491.0" endY="0.0" endZ="41057.0" />
+    <create count="10" type="asteroids" startX="61695.0" startY="0.0" startZ="34942.0" endX="61695.0" endY="0.0" endZ="34942.0" />
+    <create count="10" type="asteroids" startX="66586.0" startY="0.0" startZ="27757.0" endX="66586.0" endY="0.0" endZ="27757.0" />
+    <create count="10" type="asteroids" startX="71631.0" startY="0.0" startZ="31732.0" endX="71631.0" endY="0.0" endZ="31732.0" />
+    <create count="10" type="asteroids" startX="72854.0" startY="0.0" startZ="36624.0" endX="72854.0" endY="0.0" endZ="36624.0" />
+    <create count="10" type="asteroids" startX="67657.0" startY="0.0" startZ="37082.0" endX="67657.0" endY="0.0" endZ="37082.0" />
+    <create count="10" type="asteroids" startX="79580.0" startY="0.0" startZ="34178.0" endX="79580.0" endY="0.0" endZ="34178.0" />
+    <create count="10" type="asteroids" startX="85695.0" startY="0.0" startZ="44267.0" endX="85695.0" endY="0.0" endZ="44267.0" />
+    <create count="10" type="asteroids" startX="91657.0" startY="0.0" startZ="47324.0" endX="91657.0" endY="0.0" endZ="47324.0" />
+    <create count="10" type="asteroids" startX="92574.0" startY="0.0" startZ="38458.0" endX="92574.0" endY="0.0" endZ="38458.0" />
+    <create count="10" type="asteroids" startX="88293.0" startY="0.0" startZ="34331.0" endX="88293.0" endY="0.0" endZ="34331.0" />
+    <create count="10" type="asteroids" startX="77899.0" startY="0.0" startZ="28063.0" endX="77899.0" endY="0.0" endZ="28063.0" />
+    <create count="10" type="asteroids" startX="77440.0" startY="0.0" startZ="38305.0" endX="77440.0" endY="0.0" endZ="38305.0" />
+    <create count="10" type="asteroids" startX="71937.0" startY="0.0" startZ="26993.0" endX="71937.0" endY="0.0" endZ="26993.0" />
+    <create count="10" type="asteroids" startX="24854.0" startY="0.0" startZ="29439.0" endX="24854.0" endY="0.0" endZ="29439.0" />
+    <create count="10" type="asteroids" startX="16141.0" startY="0.0" startZ="31426.0" endX="16141.0" endY="0.0" endZ="31426.0" />
+    <create count="10" type="asteroids" startX="10637.0" startY="0.0" startZ="37235.0" endX="10637.0" endY="0.0" endZ="37235.0" />
+    <create count="10" type="asteroids" startX="9720.0" startY="0.0" startZ="41821.0" endX="9720.0" endY="0.0" endZ="41821.0" />
+    <create count="10" type="asteroids" startX="4217.0" startY="0.0" startZ="36165.0" endX="4217.0" endY="0.0" endZ="36165.0" />
+    <create count="10" type="asteroids" startX="2994.0" startY="0.0" startZ="29592.0" endX="2994.0" endY="0.0" endZ="29592.0" />
+    <create count="10" type="asteroids" startX="3453.0" startY="0.0" startZ="22560.0" endX="3453.0" endY="0.0" endZ="22560.0" />
+    <create count="10" type="asteroids" startX="8039.0" startY="0.0" startZ="22866.0" endX="8039.0" endY="0.0" endZ="22866.0" />
+    <create count="10" type="asteroids" startX="7886.0" startY="0.0" startZ="31426.0" endX="7886.0" endY="0.0" endZ="31426.0" />
+    <create count="10" type="asteroids" startX="11249.0" startY="0.0" startZ="28216.0" endX="11249.0" endY="0.0" endZ="28216.0" />
+    <create count="10" type="asteroids" startX="94102.0" startY="0.0" startZ="23936.0" endX="94102.0" endY="0.0" endZ="23936.0" />
+    <create count="10" type="asteroids" startX="94408.0" startY="0.0" startZ="23936.0" endX="94408.0" endY="0.0" endZ="23936.0" />
+    <create count="10" type="asteroids" startX="87835.0" startY="0.0" startZ="26229.0" endX="87835.0" endY="0.0" endZ="26229.0" />
+    <create count="10" type="asteroids" startX="94561.0" startY="0.0" startZ="31121.0" endX="94561.0" endY="0.0" endZ="31121.0" />
+    <create count="10" type="asteroids" startX="97924.0" startY="0.0" startZ="36624.0" endX="97924.0" endY="0.0" endZ="36624.0" />
+    <create count="10" type="asteroids" startX="98230.0" startY="0.0" startZ="28675.0" endX="98230.0" endY="0.0" endZ="28675.0" />
+    <create count="10" type="asteroids" startX="98383.0" startY="0.0" startZ="21643.0" endX="98383.0" endY="0.0" endZ="21643.0" />
+    <create count="10" type="asteroids" startX="91198.0" startY="0.0" startZ="29439.0" endX="91198.0" endY="0.0" endZ="29439.0" />
+    <create count="10" type="asteroids" startX="84166.0" startY="0.0" startZ="36929.0" endX="84166.0" endY="0.0" endZ="36929.0" />
+    <create count="10" type="asteroids" startX="81720.0" startY="0.0" startZ="40751.0" endX="81720.0" endY="0.0" endZ="40751.0" />
+    <create count="10" type="asteroids" startX="17364.0" startY="0.0" startZ="41668.0" endX="17364.0" endY="0.0" endZ="41668.0" />
+    <create count="10" type="asteroids" startX="21491.0" startY="0.0" startZ="37847.0" endX="21491.0" endY="0.0" endZ="37847.0" />
+    <create count="10" type="asteroids" startX="19809.0" startY="0.0" startZ="33414.0" endX="19809.0" endY="0.0" endZ="33414.0" />
+    <create count="10" type="asteroids" startX="33873.0" startY="0.0" startZ="34636.0" endX="33873.0" endY="0.0" endZ="34636.0" />
+    <create count="10" type="asteroids" startX="26841.0" startY="0.0" startZ="33261.0" endX="26841.0" endY="0.0" endZ="33261.0" />
+    <create count="10" type="asteroids" startX="64141.0" startY="0.0" startZ="32191.0" endX="64141.0" endY="0.0" endZ="32191.0" />
+    <create count="10" type="asteroids" startX="68115.0" startY="0.0" startZ="32802.0" endX="68115.0" endY="0.0" endZ="32802.0" />
+    <create count="10" type="asteroids" startX="74994.0" startY="0.0" startZ="32802.0" endX="74994.0" endY="0.0" endZ="32802.0" />
+    <create count="10" type="asteroids" startX="81567.0" startY="0.0" startZ="30203.0" endX="81567.0" endY="0.0" endZ="30203.0" />
+    <create count="10" type="asteroids" startX="85389.0" startY="0.0" startZ="30050.0" endX="85389.0" endY="0.0" endZ="30050.0" />
+    <create count="10" type="asteroids" startX="88752.0" startY="0.0" startZ="40445.0" endX="88752.0" endY="0.0" endZ="40445.0" />
+    <create count="10" type="asteroids" startX="95784.0" startY="0.0" startZ="47477.0" endX="95784.0" endY="0.0" endZ="47477.0" />
+    <create count="10" type="asteroids" startX="97924.0" startY="0.0" startZ="43503.0" endX="97924.0" endY="0.0" endZ="43503.0" />
+    <create count="10" type="asteroids" startX="93338.0" startY="0.0" startZ="43808.0" endX="93338.0" endY="0.0" endZ="43808.0" />
+    <create count="10" type="mines" startX="36778.0" startY="0.0" startZ="43503.0" endX="36778.0" endY="0.0" endZ="43503.0" />
+    <create count="10" type="mines" startX="33415.0" startY="0.0" startZ="43503.0" endX="33415.0" endY="0.0" endZ="43503.0" />
+    <create count="10" type="mines" startX="29287.0" startY="0.0" startZ="43503.0" endX="29287.0" endY="0.0" endZ="43503.0" />
+    <create count="10" type="mines" startX="25924.0" startY="0.0" startZ="44114.0" endX="25924.0" endY="0.0" endZ="44114.0" />
+    <create count="10" type="mines" startX="22255.0" startY="0.0" startZ="45031.0" endX="22255.0" endY="0.0" endZ="45031.0" />
+    <create count="10" type="mines" startX="17975.0" startY="0.0" startZ="46560.0" endX="17975.0" endY="0.0" endZ="46560.0" />
+    <create count="10" type="mines" startX="14306.0" startY="0.0" startZ="48089.0" endX="14306.0" endY="0.0" endZ="48089.0" />
+    <create count="10" type="mines" startX="9567.0" startY="0.0" startZ="49006.0" endX="9567.0" endY="0.0" endZ="49006.0" />
+    <create count="10" type="mines" startX="5899.0" startY="0.0" startZ="49617.0" endX="5899.0" endY="0.0" endZ="49617.0" />
+    <create count="10" type="mines" startX="2383.0" startY="0.0" startZ="49617.0" endX="2383.0" endY="0.0" endZ="49617.0" />
+    <create count="10" type="mines" startX="61083.0" startY="0.0" startZ="43656.0" endX="61083.0" endY="0.0" endZ="43656.0" />
+    <create count="10" type="mines" startX="64905.0" startY="0.0" startZ="43503.0" endX="64905.0" endY="0.0" endZ="43503.0" />
+    <create count="10" type="mines" startX="67962.0" startY="0.0" startZ="44420.0" endX="67962.0" endY="0.0" endZ="44420.0" />
+    <create count="10" type="mines" startX="71478.0" startY="0.0" startZ="45031.0" endX="71478.0" endY="0.0" endZ="45031.0" />
+    <create count="10" type="mines" startX="74994.0" startY="0.0" startZ="45949.0" endX="74994.0" endY="0.0" endZ="45949.0" />
+    <create count="10" type="mines" startX="79274.0" startY="0.0" startZ="47783.0" endX="79274.0" endY="0.0" endZ="47783.0" />
+    <create count="10" type="mines" startX="82485.0" startY="0.0" startZ="49006.0" endX="82485.0" endY="0.0" endZ="49006.0" />
+    <create count="10" type="mines" startX="85389.0" startY="0.0" startZ="50229.0" endX="85389.0" endY="0.0" endZ="50229.0" />
+    <create count="10" type="mines" startX="89058.0" startY="0.0" startZ="51146.0" endX="89058.0" endY="0.0" endZ="51146.0" />
+    <create count="10" type="mines" startX="92268.0" startY="0.0" startZ="51757.0" endX="92268.0" endY="0.0" endZ="51757.0" />
+    <create count="10" type="mines" startX="96548.0" startY="0.0" startZ="51757.0" endX="96548.0" endY="0.0" endZ="51757.0" />
+    <create count="10" type="mines" startX="98536.0" startY="0.0" startZ="18280.0" endX="98536.0" endY="0.0" endZ="18280.0" />
+    <create count="10" type="mines" startX="95020.0" startY="0.0" startZ="19197.0" endX="95020.0" endY="0.0" endZ="19197.0" />
+    <create count="10" type="mines" startX="91657.0" startY="0.0" startZ="18891.0" endX="91657.0" endY="0.0" endZ="18891.0" />
+    <create count="10" type="mines" startX="88752.0" startY="0.0" startZ="19044.0" endX="88752.0" endY="0.0" endZ="19044.0" />
+    <create count="10" type="mines" startX="85083.0" startY="0.0" startZ="19044.0" endX="85083.0" endY="0.0" endZ="19044.0" />
+    <create count="10" type="mines" startX="80956.0" startY="0.0" startZ="19044.0" endX="80956.0" endY="0.0" endZ="19044.0" />
+    <create count="10" type="mines" startX="77134.0" startY="0.0" startZ="19503.0" endX="77134.0" endY="0.0" endZ="19503.0" />
+    <create count="10" type="mines" startX="73465.0" startY="0.0" startZ="19197.0" endX="73465.0" endY="0.0" endZ="19197.0" />
+    <create count="10" type="mines" startX="69338.0" startY="0.0" startZ="19044.0" endX="69338.0" endY="0.0" endZ="19044.0" />
+    <create count="10" type="mines" startX="65364.0" startY="0.0" startZ="18585.0" endX="65364.0" endY="0.0" endZ="18585.0" />
+    <create count="10" type="mines" startX="62459.0" startY="0.0" startZ="18738.0" endX="62459.0" endY="0.0" endZ="18738.0" />
+    <create count="10" type="mines" startX="38459.0" startY="0.0" startZ="18433.0" endX="38459.0" endY="0.0" endZ="18433.0" />
+    <create count="10" type="mines" startX="35555.0" startY="0.0" startZ="18738.0" endX="35555.0" endY="0.0" endZ="18738.0" />
+    <create count="10" type="mines" startX="31580.0" startY="0.0" startZ="18738.0" endX="31580.0" endY="0.0" endZ="18738.0" />
+    <create count="10" type="mines" startX="28829.0" startY="0.0" startZ="18585.0" endX="28829.0" endY="0.0" endZ="18585.0" />
+    <create count="10" type="mines" startX="25160.0" startY="0.0" startZ="18891.0" endX="25160.0" endY="0.0" endZ="18891.0" />
+    <create count="10" type="mines" startX="20115.0" startY="0.0" startZ="18127.0" endX="20115.0" endY="0.0" endZ="18127.0" />
+    <create count="10" type="mines" startX="16752.0" startY="0.0" startZ="18585.0" endX="16752.0" endY="0.0" endZ="18585.0" />
+    <create count="10" type="mines" startX="12166.0" startY="0.0" startZ="18585.0" endX="12166.0" endY="0.0" endZ="18585.0" />
+    <create count="10" type="mines" startX="8497.0" startY="0.0" startZ="18280.0" endX="8497.0" endY="0.0" endZ="18280.0" />
+    <create count="10" type="mines" startX="5746.0" startY="0.0" startZ="19044.0" endX="5746.0" endY="0.0" endZ="19044.0" />
+    <create count="10" type="mines" startX="2077.0" startY="0.0" startZ="18585.0" endX="2077.0" endY="0.0" endZ="18585.0" />
+    <create count="10" type="asteroids" startX="29899.0" startY="0.0" startZ="25617.0" endX="29899.0" endY="0.0" endZ="25617.0" />
+    <create count="10" type="asteroids" startX="20421.0" startY="0.0" startZ="26840.0" endX="20421.0" endY="0.0" endZ="26840.0" />
+    <create count="10" type="asteroids" startX="23784.0" startY="0.0" startZ="24853.0" endX="23784.0" endY="0.0" endZ="24853.0" />
+    <create count="10" type="asteroids" startX="15529.0" startY="0.0" startZ="26076.0" endX="15529.0" endY="0.0" endZ="26076.0" />
+    <create count="10" type="asteroids" startX="2841.0" startY="0.0" startZ="44878.0" endX="2841.0" endY="0.0" endZ="44878.0" />
+    <create count="10" type="asteroids" startX="5746.0" startY="0.0" startZ="40292.0" endX="5746.0" endY="0.0" endZ="40292.0" />
+    <create type="enemy" x="54663.0" y="0.0" z="13388.0" angle="180" fleetnumber="-1" />
+    <create type="player" x="50000.0" y="0.0" z="50000.0" angle="0" name="Artemis" />
+    <create type="neutral" x="50230.0" y="0.0" z="27146.0" angle="0" name="Kobayashi Maru" sideValue="0" />
+    <create type="enemy" x="43351.0" y="0.0" z="11248.0" angle="180" fleetnumber="-1" />
+    <create type="enemy" x="49771.0" y="0.0" z="5898.0" angle="180" fleetnumber="-1" />
+    <create type="station" x="49160.0" y="0.0" z="88292.0" angle="0" />
+    <create type="station" x="70867.0" y="0.0" z="89515.0" angle="0" />
+    <create type="station" x="25924.0" y="0.0" z="89974.0" angle="0" />
+    <set_difficulty_level value="1" />
+    <set_skybox_index index="9" />
+    <big_message title="K Maru" subtitle1="by Antonio Ortega Jr" subtitle2="adaptation of Kobayashi Maru scenrio" />
+    <big_message title="Orders" subtitle1="by Antonio Ortega Jr" subtitle2="Do not enter the asteroid zone." />
+    <set_timer name="start_mission_timer_1" seconds="10" />
+    <!--<set_variable value="0.0" />-->
+    <set_variable name="chapter_1" value="1" />
+  </start>
+  <event id_arme="ceea0831-1d38-4c47-8afc-41fa166cbb3a">
+    <incoming_comms_text from="Kobayashi Maru">Help. We are unable to move and fear we will be attacked at any moment.</incoming_comms_text>
+  </event>
+</mission_data>
